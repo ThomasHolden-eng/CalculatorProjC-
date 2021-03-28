@@ -1,6 +1,0 @@
-16/04/19
-In this build the functionality was improved with the addition of square rooting which appears to be fully functional
-This build is the same size as the previous build
-I changed the design of the interface of this build as it was looking a little bit boring and the colours didn't really go with one another and now it looks okay
-
-Written by Thomas Holden
