@@ -1,5 +1,0 @@
-16/04/19
-This Build can now completely handle decimals and does them to a mass of decimal places, seemingly with no bugs, which is a massive improvement
-This Build is slightly larger than the previous build (1KB)
-
-Written by Thomas Holden
