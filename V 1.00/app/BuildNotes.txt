@@ -1,0 +1,4 @@
+09/04/2019
+The current build is functional, although a lot of the code is unnecessary and could easily be compressed, which will be the focus of the next build.
+
+Written by Thomas Holden
