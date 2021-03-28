@@ -1,6 +1,0 @@
-15/04/19
-This build now has the capability to handle floats (decimals) although they wer kind of buggy so I had to limit their use which I will try to fix in the next build
-This build is ever so slightly larger than the previous build (2KB) but it is unlikely that this will affect load time, which is still virtually nonexistent
-The interface of this build has also been enlargened
-
-Written by Thomas Holden
